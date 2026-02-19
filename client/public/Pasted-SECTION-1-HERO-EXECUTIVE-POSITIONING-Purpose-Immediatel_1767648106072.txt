@@ -1,0 +1,229 @@
+SECTION 1: HERO / EXECUTIVE POSITIONING
+Purpose
+
+Immediately answer: Why should I hire this person to run a critical function?
+
+Content
+
+Headline
+I build and scale Solutions Engineering and Customer Success organizations that drive revenue, retention, and real customer outcomes.
+
+Subheadline
+VP-level leader with 15+ years across enterprise SaaS, insurance, data, integrations, and regulated markets. Known for leading from the trenches, modernizing GTM motions, and turning complex platforms into scalable growth engines.
+
+Executive proof points (horizontal row)
+
+7–8 figure enterprise deals influenced
+
+Global SE, CS, and PS teams scaled
+
+POC-to-production conversion up to 40%
+
+Adoption, retention, and expansion ownership
+
+Primary CTA
+Let’s talk
+(email or LinkedIn)
+
+SECTION 2: LEADERSHIP PHILOSOPHY
+Purpose
+
+Establish trust, seniority, and operating style.
+
+Content
+Leadership Philosophy
+
+I am a hands-on, lead-by-example operator. My job is to block and tackle for my teams, remove friction, and ensure they can execute at a high level without noise or ambiguity.
+
+I believe the best leaders stay close enough to the work to understand reality, but far enough back to see patterns. I spend time in discovery calls, deal reviews, onboarding sessions, and customer escalations, not to micromanage, but to ensure the system is working.
+
+Across my career, teams I’ve led have consistently shortened sales cycles, increased deal size and win rates, improved adoption and renewal outcomes, and earned trust with executive stakeholders.
+
+My role is to build durable systems, develop strong leaders, and create environments where execution is predictable and outcomes are repeatable.
+
+SECTION 3: ORIGIN STORY / HUMANIZING THROUGHLINE
+Purpose
+
+Humanize without losing executive credibility. Explain why you lead this way.
+
+Content
+Curiosity as a Throughline
+
+I’ve always been curious about how things work.
+
+Growing up, I was the kid taking things apart to understand them, even when I couldn’t always get them back together. That included my first computer. At the time, it was frustration and trial-and-error. In hindsight, it was early reverse engineering.
+
+That instinct never went away. It evolved.
+
+What started as curiosity became an engineering foundation, then expanded into software, systems, automation, and eventually organizations. Today, that same mindset shows up in how I lead teams and solve problems. I want to understand the system beneath the surface, where it breaks down, and how to rebuild it so it works better for everyone involved.
+
+Whether I’m modernizing GTM motions, restructuring a team, automating a manufacturing workflow, or remodeling a house end-to-end, the pattern is the same: learn the system, challenge assumptions, rebuild with intent, and execute.
+
+That curiosity is still the driver. The difference now is experience, discipline, and the responsibility to turn insight into outcomes for teams, customers, and businesses.
+
+SECTION 4: SOLUTIONS ENGINEERING LEADERSHIP
+Purpose
+
+Speak directly to CROs and sales leadership.
+
+Content
+Solutions Engineering Leadership
+
+I build Solutions Engineering organizations that act as a revenue multiplier, not a support function.
+
+My focus is on outcome-driven discovery, executive-level technical storytelling, repeatable demo and POC frameworks, disciplined qualification, and clean handoffs into implementation and Customer Success.
+
+Across multiple organizations, I’ve standardized SE motions that increased POC-to-paid conversion by up to 40%, improved win rates by over 20%, reduced sales cycle time, and materially improved forecast accuracy.
+
+I partner deeply with Sales, Product, and Engineering to ensure what we sell is what customers can successfully adopt.
+
+SECTION 5: CUSTOMER SUCCESS LEADERSHIP
+Purpose
+
+Speak directly to CEOs, COOs, and Heads of CS.
+
+Content
+Customer Success Leadership
+
+I operate Customer Success as a growth engine.
+
+I have owned the full customer lifecycle across onboarding, implementation, adoption, renewal, and expansion. My approach centers on accountability, operational rigor, and relentless focus on customer outcomes.
+
+I have built and scaled CS, PS, and post-sales SE organizations, improved platform utilization by over 20%, standardized QBR and renewal-readiness frameworks, converted pilots into paid implementations, and established VoC programs that directly influenced product and GTM strategy.
+
+Customers should experience one company, not a collection of teams. My role is to make that real.
+
+SECTION 6: RJJ SOLUTIONS – INDEPENDENT CONSULTING
+Purpose
+
+Credibility amplifier. Shows depth, judgment, and builder DNA.
+
+Content
+RJJ Solutions, Independent Engineering and Systems Consulting
+
+Since 2018, I have operated RJJ Solutions alongside executive leadership roles, providing selective, high-impact consulting across engineering, automation, and systems modernization.
+
+This work reflects my builder mindset and my ability to operate independently at a senior technical and strategic level.
+
+Expert Witness and Product Design Consulting
+
+I have served as an expert witness for plaintiff-side consumer product design cases, providing rigorous technical analysis, documentation, and testimony under legal scrutiny.
+
+Hydrogen Injection Prototype, Government Innovation
+
+I contributed to the development of a prototype hydrogen injection system designed to power internal combustion engines using hydrogen, targeted toward government agency use cases. This work focused on applied innovation, rapid prototyping, and system-level engineering.
+
+Enterprise Automation, Industrial Manufacturing
+
+For a dock manufacturer with approximately 75 employees and $25M in annual revenue, I led the modernization of their internal design and engineering workflows.
+
+The result:
+
+30% increase in production capacity
+
+15% reduction in per-job cost
+
+We replaced a fully manual, legacy process with a quote-to-build system that automatically generated designs, bills of materials, and production-ready outputs, feeding directly into shop floor fabrication.
+
+SECTION 7: TECHNICAL SKILLS (EXECUTIVE-CURATED)
+Purpose
+
+Signal hands-on credibility without overwhelming.
+
+Content
+Technical Skills and Tooling
+
+I maintain an active technical skill set that informs how I lead teams, evaluate architecture, and partner with Product and Engineering.
+
+Languages and development
+
+Python
+
+JavaScript
+
+SQL
+
+API design and integration
+
+Automation and data
+
+Business process automation
+
+Data pipelines and transformation
+
+ETL and normalization workflows
+
+Legacy system modernization
+
+Infrastructure and tooling
+
+Docker for personal and experimental projects
+
+Local and cloud-based development environments
+
+Rapid prototyping and POC tooling
+
+I use technology pragmatically. Tools are a means to outcomes, not the goal.
+
+SECTION 8: PERSONAL → HOBBIES → RENOVATION
+Purpose
+
+Humanize while reinforcing the builder mindset.
+
+Content
+Builder Mindset, Renovation Projects
+
+I have remodeled four houses end-to-end, completing full renovations that included framing, electrical, plumbing, cabinetry, kitchens, bathrooms, flooring, and finish work.
+
+These were full system rebuilds, not cosmetic updates.
+
+Renovation mirrors how I approach leadership and software: understand the system, identify structural weaknesses, rebuild with intention, and execute with accountability.
+
+This work reinforces craftsmanship, sequencing, and respect for execution. It also feeds my constant curiosity and high motor. I am always learning, building, and improving.
+
+Gallery guidance
+
+Clean photo gallery
+
+Renovation images only
+
+Minimal captions or none at all
+
+SECTION 9: PERSONAL TOUCH (DOGS)
+Purpose
+
+Warmth, relatability, humanity.
+
+Content
+Outside of Work
+
+When I’m not building teams or systems, I’m usually spending time with my dogs. They are a constant reminder of patience, consistency, and showing up every day.
+
+This section should include:
+
+1–3 candid photos
+
+No over-explanation
+
+Just human presence
+
+SECTION 10: TESTIMONIALS
+
+Limit to 2–3 strong quotes. Short. Credible sources only.
+
+SECTION 11: FINAL CTA
+Content
+
+If you are scaling Solutions Engineering or Customer Success and need a leader who can build teams, systems, and outcomes, let’s talk.
+
+OPTIONAL ADDITIONS (RECOMMENDED)
+
+Sticky header with section anchors
+
+Subtle scroll-based section transitions
+
+Optional PDF resume download
+
+LinkedIn link in footer
+
+Email CTA repeated at bottom

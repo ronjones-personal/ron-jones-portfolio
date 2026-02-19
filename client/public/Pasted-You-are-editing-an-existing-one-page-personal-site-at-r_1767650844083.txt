@@ -1,0 +1,375 @@
+You are editing an existing one-page personal site at ronaldjones.me. The goal is to improve executive skim-ability, restore scannable proof, and use boxed layouts to break up content. Do NOT add new pages. Everything remains on ONE long page.
+
+GLOBAL REQUIREMENTS
+
+ONE long-scroll page only
+
+Use clean executive styling, generous whitespace, strong typography
+
+No stock photos. Only user-provided photos
+
+Use POV everywhere. Never use POC
+
+Use boxed cards for Professional Experience and Hobbies
+
+Dogs appear ONLY in a bottom “Life Outside Work” section, not inside hobby cards
+
+Optimize for 3 reading speeds:
+
+10-second skim (headings, cards, metrics)
+
+30-second scan (bullets, key metrics)
+
+2-minute read (short paragraphs)
+
+SECTION ORDER (FINAL PAGE FLOW)
+
+Implement sections in this exact order with clear section anchors:
+
+Hero
+
+Credibility Strip (metrics row)
+
+Leadership Philosophy
+
+Curiosity as a Throughline (origin story)
+
+Solutions Engineering Leadership
+
+Customer Success Leadership
+
+Professional Experience (cards, timeline style)
+
+RJJ Solutions (consulting)
+
+Technical Skills (grouped lists)
+
+Curiosity Outside of Work (Hobbies cards)
+
+Life Outside Work (Dogs + photos)
+
+Final CTA / Contact
+
+SECTION 1: HERO (REPLACE ENTIRE HERO COPY)
+
+Replace hero headline and subheadline with EXACT text:
+
+Headline:
+Senior Leader building Solutions Engineering and Customer Success organizations that drive durable growth.
+
+Subheadline:
+Customer-facing leader with 15+ years across enterprise SaaS, data, integrations, and regulated markets. Known for leading from the trenches, aligning GTM teams, and turning complex technology into repeatable business outcomes.
+
+Hero layout requirements:
+
+Headline large, bold
+
+Subheadline smaller, max width, easy to read
+
+CTA buttons directly under text:
+
+Primary button: “Let’s talk”
+
+Secondary button: “View experience”
+
+CTA buttons should scroll to Contact and Professional Experience sections
+
+SECTION 2: CREDIBILITY STRIP (NEW, BOXED METRICS ROW)
+
+Immediately under the hero, add a horizontal row of 4 metric cards. Each card has:
+
+Small label
+
+Bold value statement (no dollar amounts)
+
+1 short supporting phrase
+
+Use EXACT text below:
+
+Card 1
+Label: Enterprise outcomes
+Value: Win rates and deal outcomes improved
+Support: Through value-led discovery and POV execution
+
+Card 2
+Label: POV conversion
+Value: Up to 40% lift in POV-to-production
+Support: Defined exit criteria and repeatable frameworks
+
+Card 3
+Label: Team scaling
+Value: Built and scaled SE, CS, and PS teams
+Support: Hiring, enablement, playbooks, operating rhythm
+
+Card 4
+Label: Execution systems
+Value: Predictable delivery and renewal readiness
+Support: Standardized onboarding, QBRs, and health signals
+
+Design notes:
+
+These should be real “cards” with a subtle border or shadow
+
+Equal height
+
+Stack to 2x2 on mobile
+
+SECTION 3: LEADERSHIP PHILOSOPHY (KEEP, BUT REPLACE COPY)
+
+Replace this section’s body copy with EXACT text:
+
+Leadership Philosophy
+
+I am a hands-on, lead-by-example operator. My job is to block and tackle for my teams, remove friction, and ensure they can execute at a high level without noise or ambiguity.
+
+I stay close to the work, not to micromanage, but to understand reality. I spend time in discovery calls, deal reviews, POVs, onboarding sessions, and customer escalations to ensure the system is working as intended.
+
+My role is to build durable systems, develop strong leaders, and create environments where execution is predictable and outcomes are repeatable.
+
+Formatting:
+
+Keep to 3 short paragraphs
+
+Add whitespace between paragraphs
+
+SECTION 4: ORIGIN STORY (KEEP, REPLACE COPY)
+
+Replace with EXACT text:
+
+Curiosity as a Throughline
+
+I’ve always been curious about how things work.
+
+Growing up, I was constantly taking things apart to understand them, often without successfully putting them back together. That included my first computer. At the time, it was frustration and trial-and-error. In hindsight, it was early reverse engineering.
+
+That instinct never went away. It evolved.
+
+What started as curiosity became an engineering foundation, then expanded into software, systems, automation, and eventually organizations. Today, that same mindset shapes how I lead teams and solve problems. I want to understand the system beneath the surface, identify where it breaks down, and rebuild it so it works better for everyone involved.
+
+Whether I’m modernizing GTM motions, restructuring teams, automating workflows, or building physical systems, the pattern is the same: learn the system, challenge assumptions, rebuild with intent, and execute.
+
+SECTION 5: SOLUTIONS ENGINEERING LEADERSHIP (ENSURE POV TERM)
+
+In this section:
+
+Replace any “POC” or “proof of concept” with “POV” or “proof of value”
+
+Keep it short, 4 to 6 bullets max
+
+Use bullets not paragraphs
+
+Add these bullets if missing (exact text):
+
+Outcome-driven discovery tied to business impact
+
+Executive-ready demos and technical narratives
+
+POV frameworks with clear exit criteria
+
+Clean handoffs into implementation and CS
+
+Field feedback loops to Product and Engineering
+
+SECTION 6: CUSTOMER SUCCESS LEADERSHIP (BULLET FORMAT)
+
+Use bullets not paragraphs. Include (exact text):
+
+Onboarding and adoption frameworks that drive time-to-value
+
+Renewal readiness, QBR discipline, and forecasting clarity
+
+Executive alignment and multi-threaded stakeholder management
+
+VoC programs that influence roadmap and GTM priorities
+
+Expansion motions grounded in measurable outcomes
+
+SECTION 7: PROFESSIONAL EXPERIENCE (RESTORE, CARD/TIMELINE FORMAT)
+
+Create a “Professional Experience” section with a 2-column layout on desktop and 1 column on mobile.
+
+Each role must be a card with:
+
+Company (bold)
+
+Title
+
+Dates
+
+3 bullets max, short and outcome-oriented
+
+Use EXACT card content below (do not add more bullets):
+
+Card: Coherent
+Title: Senior Leader, Solutions Engineering and Client Strategy
+Dates: 2023 – Present
+Bullets:
+
+Built repeatable POV and delivery frameworks that improved conversion and time-to-value
+
+Led cross-portfolio strategy across SE, CS, and Services for enterprise insurance clients
+
+Partnered with Product and Engineering to align roadmap to field outcomes
+
+Card: Totango
+Title: Senior Director, Solutions Engineering and Customer Success
+Dates: 2021 – 2023
+Bullets:
+
+Scaled a multi-disciplinary post-sales and presales team to support enterprise growth
+
+Standardized onboarding, adoption, and value delivery operating rhythms
+
+Improved win rates and deal outcomes through outcome-first execution
+
+Card: Trimble
+Title: Director, Solutions Engineering
+Dates: 2019 – 2021
+Bullets:
+
+Led enterprise and federal technical motions across complex customer environments
+
+Transitioned services-heavy delivery into scalable software-first execution
+
+Earned multiple performance and leadership recognitions
+
+Card: Advanced Solutions
+Title: Enterprise Solutions Engineer and Engagement Lead
+Dates: 2016 – 2019
+Bullets:
+
+Led discovery, solutioning, and delivery alignment across enterprise accounts
+
+Increased deal size through value-driven discovery and scoped execution
+
+Built repeatable processes that improved customer outcomes and retention
+
+Card: Industrial Air Centers
+Title: Solutions Engineer
+Dates: 2013 – 2016
+Bullets:
+
+Supported technical sales cycles and product positioning across the region
+
+Translated requirements into solution narratives and adoption-ready plans
+
+Contributed directly to early revenue growth in a new market
+
+Card: RJJ Solutions
+Title: Principal, Independent Consulting (Selective)
+Dates: 2018 – Present
+Bullets:
+
+Delivered engineering and automation modernization for select clients
+
+Built quote-to-build automation improving production 30% and reducing job cost 15%
+
+Provided expert witness consulting for plaintiff-side consumer product cases
+
+Design notes:
+
+Cards should be visually consistent with the metric cards
+
+Dates should be visible and easy to scan
+
+Keep bullets to one line where possible
+
+SECTION 8: RJJ SOLUTIONS (SHORTEN, KEEP METRICS)
+
+Keep this section, but ensure:
+
+The 30% and 15% metrics appear bold
+
+Use 3 subsections only: Expert witness, Hydrogen prototype, Quote-to-build automation
+
+No extra long paragraphs
+
+SECTION 9: TECHNICAL SKILLS (GROUPED LISTS, NOT PARAGRAPHS)
+
+Render as 3 grouped lists with headings:
+
+Languages and development:
+
+Python
+
+JavaScript
+
+SQL
+
+API design and integration
+
+Automation and data:
+
+Business process automation
+
+Data transformation and ETL
+
+Legacy modernization
+
+Infrastructure and tooling:
+
+Docker
+
+Local and cloud development environments
+
+Rapid prototyping
+
+SECTION 10: HOBBIES (CARDS ONLY, DOGS NOT INCLUDED)
+
+Section title:
+
+Curiosity Outside of Work
+
+Use a grid of hobby cards. Each card contains a title and 1 sentence only.
+
+Card 1
+Title: DIY and Home Renovation
+Text: Renovated four houses end-to-end, focusing on planning, sequencing, and execution across complex systems.
+
+Card 2
+Title: Drone and Aerial Photography
+Text: A mix of technical precision and creative perspective through aerial photo and video projects.
+
+Card 3
+Title: 3D Printing, Modeling, and Design
+Text: Iterative design and prototyping as a hands-on outlet for problem solving.
+
+Card 4
+Title: Home Coding and Automation Projects
+Text: Personal builds using Docker and automation tooling, including home media server infrastructure and experimentation.
+
+Add optional photo galleries under the hobby section:
+
+Renovation gallery (grid)
+
+Drone gallery (grid)
+
+3D printing gallery (grid)
+Keep galleries collapsed behind “View photos” toggles if possible.
+
+SECTION 11: DOGS (BOTTOM ONLY)
+
+Add a separate section near the bottom titled:
+
+Life Outside of Work
+
+Body text (exact):
+When I’m not building something, I’m spending time with my dogs. They keep me grounded and are a constant reminder that consistency and presence matter.
+
+Include a simple photo strip or small gallery of dog photos here only.
+
+SECTION 12: FINAL CTA / CONTACT (CRISP)
+
+Headline:
+Let’s connect
+
+Body text (exact):
+If you are building or scaling Solutions Engineering or Customer Success and want a senior leader who can operate in the trenches and at the strategic level, let’s talk.
+
+Include:
+
+Email link
+
+LinkedIn link
+
+Optional Resume download link

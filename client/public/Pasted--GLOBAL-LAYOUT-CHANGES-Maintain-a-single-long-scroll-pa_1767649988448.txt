@@ -1,0 +1,160 @@
+🔹 GLOBAL LAYOUT CHANGES
+
+Maintain a single long-scroll page
+
+Reintroduce boxed / card-style sections for:
+
+Professional Experience
+
+Hobbies
+
+Key Value Areas
+
+Optimize for 30-second executive skim
+
+Reduce paragraph density where possible
+
+POV terminology only, never POC
+
+🔹 SECTION 1: HERO (REWRITE)
+Replace the hero section word for word with the following:
+
+Headline
+Senior Leader building Solutions Engineering and Customer Success organizations that drive durable growth.
+
+Subheadline
+Customer-facing executive leader with 15+ years scaling enterprise SaaS, data, integration, and regulated-market platforms. Known for leading from the trenches, aligning GTM teams, and turning complex technology into repeatable business outcomes.
+
+Replace existing metrics with these four only:
+
+Enterprise GTM leadership across Solutions Engineering, Customer Success, and Professional Services
+
+Proven success in complex, multi-stakeholder enterprise sales and delivery cycles
+
+POV-to-production conversion improved by up to 40 percent
+
+Teams and systems built to scale adoption, retention, and expansion
+
+Primary CTA
+Let’s talk
+
+🔹 SECTION 2: LEADERSHIP PHILOSOPHY (KEEP, SLIGHTLY TIGHTEN)
+
+Keep this section, but ensure it remains no more than two short paragraphs and is visually separated with whitespace.
+
+🔹 SECTION 3: ORIGIN STORY (KEEP AS-IS)
+
+Keep “Curiosity as a Throughline” unchanged. It’s working and humanizes you well.
+
+🔹 SECTION 4: PROFESSIONAL EXPERIENCE (RE-ADD, BOXED)
+This section should be reintroduced as boxed experience cards, not long prose.
+Section Title
+Professional Experience
+
+Each role should be represented as a clean card with:
+
+Company
+
+Title
+
+Date range
+
+3–4 impact bullets max
+
+Use the following summary-level bullets (not full resume copy):
+
+Coherent
+Senior Leader, Solutions Engineering & Client Strategy
+
+Led pre- and post-sales technical strategy across enterprise insurance clients
+
+Built scalable POV and delivery frameworks improving conversion and time-to-value
+
+Partnered cross-functionally to align Product, Sales, and CS around outcomes
+
+Totango
+Senior Director, Solutions Engineering & Customer Success
+
+Built and scaled global SE, CS, and PS teams
+
+Increased enterprise win rates and deal size through value-driven engagement
+
+Standardized onboarding, adoption, and renewal readiness
+
+Trimble
+Director, Solutions Engineering
+
+Led enterprise and federal GTM technical strategy
+
+Transitioned services-heavy motions into scalable software-led growth
+
+Recognized with multiple leadership and performance awards
+
+RJJ Solutions
+Principal, Independent Consulting (Ongoing, Selective)
+
+Provided executive advisory and hands-on engineering across automation and modernization
+
+Led quote-to-build transformation increasing production 30 percent and reducing cost 15 percent
+
+This section should feel credible, fast, and skimmable, not exhaustive.
+
+🔹 SECTION 5: RJJ SOLUTIONS (KEEP, SHORTEN)
+
+Keep the RJJ Solutions narrative, but trim redundancy. Ensure metrics remain visible and bolded.
+
+🔹 SECTION 6: TECHNICAL SKILLS (KEEP CONCISE)
+
+This section should remain a tight, grouped list, not a paragraph.
+
+🔹 SECTION 7: PERSONAL → HOBBIES (RESTORE BOXES)
+Rename Section
+Curiosity Outside of Work
+Restore boxed layout, with one box per hobby area.
+
+Use the following box titles and descriptions:
+
+DIY & Home Renovation
+End-to-end home renovation projects including framing, electrical, plumbing, cabinetry, kitchens, and full system rebuilds. A practical extension of my builder mindset.
+
+Drone & Aerial Photography
+Exploring perspective, planning, and precision through aerial photography and videography.
+
+3D Printing, Modeling & Design
+Hands-on experimentation with design, prototyping, and physical iteration.
+
+Home Coding & Automation Projects
+Personal projects using Docker and related tooling, including home media servers and automation systems built to learn, test, and optimize.
+
+Life Outside Work
+Time spent with my dogs, which keeps me grounded and balanced.
+
+Each box should be:
+
+Visually consistent
+
+Short
+
+Easy to scan
+
+Optionally clickable to expand or show images
+
+🔹 SECTION 8: FINAL CTA (KEEP SIMPLE)
+
+End the page with:
+
+If you are building or scaling Solutions Engineering or Customer Success and need a senior leader who can operate in the trenches and at the strategic level, let’s talk.
+
+🔹 FINAL UX NOTES
+
+This page should read cleanly at three speeds:
+
+10-second skim
+
+30-second scan
+
+2-minute read
+
+Boxes and cards are critical for this
+
+Avoid long vertical text blocks

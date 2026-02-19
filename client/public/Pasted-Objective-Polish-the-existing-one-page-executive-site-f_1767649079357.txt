@@ -1,0 +1,134 @@
+Objective:
+Polish the existing one-page executive site for VP of Solutions Engineering and VP of Customer Success roles. Increase executive impact, sharpen value statements, replace POC with POV, and expand the Personal/Hobbies section to reflect a broader builder and innovator mindset.
+
+Tone:
+Executive, confident, warm, human, builder-led, outcomes-focused
+No fluff. No buzzwords. No stock phrasing.
+
+🔹 GLOBAL RULES
+
+This is a single long-scroll page
+
+Clean section separation and strong typography
+
+No stock images
+
+Use real photos only (renovations, drones, dogs, personal projects)
+
+POV must be used everywhere instead of POC
+
+🔹 SECTION 1: HERO (REWRITE COMPLETELY)
+Replace the current hero content with the following word for word:
+
+Headline
+I build and scale Solutions Engineering and Customer Success organizations that accelerate revenue, retention, and long-term customer value.
+
+Subheadline
+VP-level leader with 15+ years leading enterprise SaaS, data, integration, and regulated-market platforms. Known for leading from the trenches, aligning GTM teams, and turning complex technology into repeatable business outcomes.
+
+Key Value Metrics (replace existing bullets entirely):
+
+Influenced and closed complex enterprise deals measured in tens of millions in ARR and TCV
+
+Built and scaled global SE, CS, and Professional Services teams from zero to maturity
+
+Increased POV-to-production conversion by up to 40 percent
+
+Improved win rates, cycle time, adoption, and renewal outcomes through disciplined execution
+
+Primary CTA
+Let’s talk
+
+🔹 SECTION 2: LEADERSHIP PHILOSOPHY (KEEP STRUCTURE, POLISH COPY)
+
+Replace the text in this section with the following:
+
+Leadership Philosophy
+
+I am a hands-on, lead-by-example operator. My job is to block and tackle for my teams, remove friction, and ensure they can execute at a high level without noise or ambiguity.
+
+I stay close to the work, not to micromanage, but to understand reality. I spend time in discovery calls, deal reviews, POVs, onboarding sessions, and customer escalations to ensure the system is working as intended.
+
+Across my career, teams I’ve led have shortened sales cycles, increased deal size and win rates, improved adoption and renewal performance, and earned deep trust with executive stakeholders.
+
+My role is to build durable systems, develop strong leaders, and create environments where execution is predictable and outcomes are repeatable.
+
+🔹 SECTION 3: ORIGIN STORY (ADD THIS SECTION)
+
+Insert this section immediately after Leadership Philosophy.
+
+Curiosity as a Throughline
+
+I’ve always been curious about how things work.
+
+Growing up, I was constantly taking things apart to understand them, often without successfully putting them back together. That included my first computer. At the time, it was frustration and trial-and-error. In hindsight, it was early reverse engineering.
+
+That instinct never went away. It evolved.
+
+What started as curiosity became an engineering foundation, then expanded into software, systems, automation, and eventually organizations. Today, that same mindset shapes how I lead teams and solve problems. I want to understand the system beneath the surface, identify where it breaks down, and rebuild it so it works better for everyone involved.
+
+Whether I’m modernizing GTM motions, restructuring teams, automating workflows, or building physical systems, the pattern is the same: learn the system, challenge assumptions, rebuild with intent, and execute.
+
+🔹 SECTION 4: SOLUTIONS ENGINEERING (MINOR TERMINOLOGY UPDATE)
+
+Ensure POV is used instead of POC everywhere.
+
+Replace any mention of “proof of concept” or “POC” with “proof of value (POV).”
+
+🔹 SECTION 5: RJJ SOLUTIONS (KEEP CONTENT, ADD METRICS)
+
+Under the industrial automation subsection, ensure the following metrics are explicitly included:
+
+Increased production capacity by approximately 30 percent
+
+Reduced per-job cost by approximately 15 percent
+
+Language should emphasize enterprise modernization, quote-to-build automation, and organizational transformation.
+
+🔹 SECTION 6: TECHNICAL SKILLS (NO MAJOR CHANGES)
+
+Keep this section concise and executive-friendly. No long tool lists outside this section.
+
+🔹 SECTION 7: PERSONAL → HOBBIES (REWRITE AND EXPAND)
+
+Rename this section to:
+
+Curiosity Outside of Work
+
+Replace the existing hobbies content with the following word for word:
+
+Outside of work, I’m driven by the same curiosity and builder mindset that defines my professional life.
+
+I regularly take on hands-on DIY and renovation projects, completing full end-to-end builds that require planning, sequencing, and execution across multiple systems. I also explore creative and technical projects, including drone and aerial photography, 3D printing, modeling, and design.
+
+I enjoy building and experimenting with personal technology projects, including home coding and automation efforts using Docker and related tooling. These projects range from media server infrastructure to small systems built purely to understand how a tool or platform works.
+
+I’m energized by learning new domains and applying ideas across disciplines, whether that’s translating engineering principles into leadership systems or applying software thinking to physical builds.
+
+When I’m not building something, I’m usually spending time with my dogs, which provides a welcome counterbalance and a reminder that consistency, patience, and presence matter just as much as execution.
+
+Visual Guidance
+
+Include image galleries for:
+
+Renovation projects
+
+Drone or aerial photography
+
+Dogs
+
+Keep captions minimal or omit entirely
+
+🔹 SECTION 8: FINAL CTA (NO CHANGE EXCEPT TIGHTENING)
+
+Ensure the page ends with:
+
+If you are scaling Solutions Engineering or Customer Success and need a leader who can build teams, systems, and outcomes, let’s talk.
+
+🔹 FINAL IMPLEMENTATION NOTES
+
+Reduce paragraph length where possible without removing substance
+
+Add whitespace and visual breaks between sections
+
+This page should feel like an executive leadership profile, not a portfolio
