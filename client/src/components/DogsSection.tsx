@@ -1,4 +1,4 @@
-import dogsPhoto from "@assets/dogs_new.jpg";
+import dogsPhoto from "../assets/dogs.jpg";
 
 export function DogsSection() {
   return (

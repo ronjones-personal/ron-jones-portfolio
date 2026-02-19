@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { GraduationCap, Award, Briefcase, Linkedin } from "lucide-react";
-import dogsPhoto from "@assets/IMG_A13ECE5F-65B7-4D82-81D6-21598C095541_1767635811529.jpeg";
+import dogsPhoto from "../assets/dogs.jpg";
 
 export function AboutSection() {
   const highlights = [

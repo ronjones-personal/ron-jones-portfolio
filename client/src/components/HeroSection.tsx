@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Linkedin } from "lucide-react";
-import ronPhoto from "@assets/TSW-0421_1767727791718.jpeg";
+import ronPhoto from "../assets/headshot.jpeg";
 
 export function HeroSection() {
   const scrollToSection = (sectionId: string) => {
