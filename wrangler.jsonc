@@ -1,7 +1,12 @@
 {
   "name": "ron-jones-portfolio",
-  "compatibility_date": "2026-02-19",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
   "assets": {
-    "directory": "./dist/public"
-  }
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "analytics_engine_datasets": [
+    { "binding": "VISITS", "dataset": "ronaldjones_visits" }
+  ]
 }
